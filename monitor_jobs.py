@@ -14,6 +14,8 @@ KEYWORDS = [
     "programador",
     "remote",
     "remoto",
+    "dba",
+    "Ingenierio de software sr"
 ]
 
 
